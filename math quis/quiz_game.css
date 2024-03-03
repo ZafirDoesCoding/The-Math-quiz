@@ -1,0 +1,9 @@
+body{
+    background-color: red;
+    text-align: center;
+}
+.player_1div , .player_2div{
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
